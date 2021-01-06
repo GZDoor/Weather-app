@@ -1,0 +1,36 @@
+body{
+    background:skyblue;
+    text-align:center;
+    font-size:300%;
+    font-family:'Merriweather';
+  }
+  
+  #temps{
+    justify-content: center;
+    display:flex;
+  }
+  #temp{
+    font-size:50%;
+  }
+  
+  #Temp_var{
+    font-size:50%;
+  }
+  
+  #clouds{
+    font-size:50%;
+  }
+  
+  #location{
+    font-size:50%;
+  }
+  
+  #word1{
+    font-size:50%;
+    font-weight:normal;
+    margin:0;
+  }
+
+  
+  
+  
